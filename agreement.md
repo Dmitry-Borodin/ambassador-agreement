@@ -1,4 +1,4 @@
-## CoCoHub Community Ambassador Agreement
+# CoCoHub Community Ambassador Agreement
 
 # 1. Purpose
 
