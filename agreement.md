@@ -64,11 +64,17 @@ This Code of Conduct is a direct swipe from the awesome work of Open Source Brid
 
 
 
+
 **Ambassador's Name**
 
 
+_____________________
 
-**Ambassador's Signature** 					
+
+**Ambassador's Signature** 
+
+
+_____________________
 
 
 
