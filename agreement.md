@@ -2,7 +2,7 @@
 
 # 1. Purpose
 
-CoCoHub {CITYNAME} believes our community should be truly open for everyone. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, disability, ethnicity, religion, preferred operating system, programming language, or text editor.
+CoCoHub {CITYNAME} believes our community should be truly open for everyone. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, disability, ethnicity, religion, political view or preferred diet.
 
 This code of conduct outlines our expectations for ambassadors behavior as well as the consequences for unacceptable behavior.
 
